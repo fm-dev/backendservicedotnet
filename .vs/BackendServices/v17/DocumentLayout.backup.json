@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A49D9F-F130-43CC-818B-B265CA0D9F19}|BackendServices\\BackendServices.csproj|c:\\users\\ext-it\\documents\\work\\notepad\\backendservicedotnet\\backendservices\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A49D9F-F130-43CC-818B-B265CA0D9F19}|BackendServices\\BackendServices.csproj|solutionrelative:backendservices\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A49D9F-F130-43CC-818B-B265CA0D9F19}|BackendServices\\BackendServices.csproj|c:\\users\\ext-it\\documents\\work\\notepad\\backendservicedotnet\\backendservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6A49D9F-F130-43CC-818B-B265CA0D9F19}|BackendServices\\BackendServices.csproj|solutionrelative:backendservices\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A49D9F-F130-43CC-818B-B265CA0D9F19}|BackendServices\\BackendServices.csproj|c:\\users\\ext-it\\documents\\work\\notepad\\backendservicedotnet\\backendservices\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6A49D9F-F130-43CC-818B-B265CA0D9F19}|BackendServices\\BackendServices.csproj|solutionrelative:backendservices\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A49D9F-F130-43CC-818B-B265CA0D9F19}|BackendServices\\BackendServices.csproj|c:\\users\\ext-it\\documents\\work\\notepad\\backendservicedotnet\\backendservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A49D9F-F130-43CC-818B-B265CA0D9F19}|BackendServices\\BackendServices.csproj|solutionrelative:backendservices\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A49D9F-F130-43CC-818B-B265CA0D9F19}|BackendServices\\BackendServices.csproj|c:\\users\\ext-it\\documents\\work\\notepad\\backendservicedotnet\\backendservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E6A49D9F-F130-43CC-818B-B265CA0D9F19}|BackendServices\\BackendServices.csproj|solutionrelative:backendservices\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6A49D9F-F130-43CC-818B-B265CA0D9F19}|BackendServices\\BackendServices.csproj|c:\\users\\ext-it\\documents\\work\\notepad\\backendservicedotnet\\backendservices\\backendservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6A49D9F-F130-43CC-818B-B265CA0D9F19}|BackendServices\\BackendServices.csproj|solutionrelative:backendservices\\backendservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "BackendServices\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "BackendServices\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T03:52:30.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackendServices\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackendServices\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-07T03:49:55.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendServices\\appsettings.json",
+              "ToolTip": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\appsettings.json",
+              "RelativeToolTip": "BackendServices\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-07T03:48:08.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BackendServices\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\appsettings.Development.json",
+              "RelativeToolTip": "BackendServices\\appsettings.Development.json",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-07T03:45:59.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\Program.cs",
+              "RelativeDocumentMoniker": "BackendServices\\Program.cs",
+              "ToolTip": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\Program.cs",
+              "RelativeToolTip": "BackendServices\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T05:26:53.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BackendServices.csproj",
+              "DocumentMoniker": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\BackendServices.csproj",
+              "RelativeDocumentMoniker": "BackendServices\\BackendServices.csproj",
+              "ToolTip": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\BackendServices.csproj",
+              "RelativeToolTip": "BackendServices\\BackendServices.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-06T04:56:47.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mt6iaIzL8b8=",
+  "dgSpecHash": "A3eEQKGvwzg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ext-it\\Documents\\work\\notepad\\testbl\\BackendServices\\BackendServices\\BackendServices.csproj",
+  "projectFilePath": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\BackendServices.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ext-it\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ext-it\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

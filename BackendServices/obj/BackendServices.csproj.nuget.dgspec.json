@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ext-it\\Documents\\work\\notepad\\testbl\\BackendServices\\BackendServices\\BackendServices.csproj": {}
+    "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\BackendServices.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ext-it\\Documents\\work\\notepad\\testbl\\BackendServices\\BackendServices\\BackendServices.csproj": {
+    "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\BackendServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ext-it\\Documents\\work\\notepad\\testbl\\BackendServices\\BackendServices\\BackendServices.csproj",
+        "projectUniqueName": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\BackendServices.csproj",
         "projectName": "BackendServices",
-        "projectPath": "C:\\Users\\ext-it\\Documents\\work\\notepad\\testbl\\BackendServices\\BackendServices\\BackendServices.csproj",
+        "projectPath": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\BackendServices.csproj",
         "packagesPath": "C:\\Users\\ext-it\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ext-it\\Documents\\work\\notepad\\testbl\\BackendServices\\BackendServices\\obj\\",
+        "outputPath": "C:\\Users\\ext-it\\Documents\\work\\notepad\\backendservicedotnet\\BackendServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
